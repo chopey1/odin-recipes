@@ -1,0 +1,31 @@
+.div.first {
+    background-color: rgb(199, 243, 213);
+    text-align: center;
+    height: auto;
+    width: 200px;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.div.second {
+    background-color: rgb(220, 245, 228);
+    text-align:center;
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    border-radius: 10%;
+}
+
+#first-listing {
+    padding: 40px;
+    font-weight: bold;
+}
+
+.text {
+    padding: 30%;
+}
+
+body {
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(251, 251, 245);
+}
